@@ -1,0 +1,33 @@
+.tituloprincipal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.body{
+    background-image: url("fondo2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+    align-items:center;
+    height:100vh;
+}
+
+*{
+    margin:0px;
+}
+
+.cuadroprincipal{
+    border: 4px solid rgb(97, 93, 93);
+    width:50% ;
+    margin-right:auto;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+.boton{
+   color: rgb(109, 109, 117);
+}
+
+.redessociales{
+   border: 5px solid rgb(97, 93, 93);
+}
